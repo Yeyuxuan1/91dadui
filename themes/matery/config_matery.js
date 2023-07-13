@@ -7,10 +7,10 @@ const CONFIG_MATERY = {
   HOME_NAV_BACKGROUND_IMG_FIXED: false, // 首页背景图滚动时是否固定，true 则滚动时图片不懂； false则随鼠标滚动
 
   // 菜单配置
-  MENU_CATEGORY: true, // 显示分类
-  MENU_TAG: true, // 显示标签
-  MENU_ARCHIVE: true, // 显示归档
-  MENU_SEARCH: true, // 显示搜索
+  MENU_CATEGORY: false, // 显示分类
+  MENU_TAG: false, // 显示标签
+  MENU_ARCHIVE: false, // 显示归档
+  MENU_SEARCH: false, // 显示搜索
 
   POST_LIST_COVER: true, // 文章封面
   POST_LIST_SUMMARY: true, // 文章摘要
