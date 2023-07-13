@@ -12,7 +12,7 @@ const CONFIG_MATERY = {
   MENU_ARCHIVE: false, // 显示归档
   MENU_SEARCH: false, // 显示搜索
 
-  POST_LIST_COVER: true, // 文章封面
+  POST_LIST_COVER: false, // 文章封面
   POST_LIST_SUMMARY: true, // 文章摘要
   POST_LIST_PREVIEW: true, // 读取文章预览
 
